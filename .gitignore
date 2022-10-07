@@ -1,0 +1,5 @@
+# Project exclude paths
+/BehavioralPatterns/target/
+/CreationalPatterns/target/
+/StructPatterns/target/
+/.idea/
